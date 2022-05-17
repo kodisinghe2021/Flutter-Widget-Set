@@ -1,4 +1,4 @@
-import 'package:default_app/animal_list.dart';
+import 'package:default_app/lists/animal_list.dart';
 import 'package:flutter/material.dart';
 
 class GridViewC extends StatelessWidget {
